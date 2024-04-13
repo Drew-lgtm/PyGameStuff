@@ -1,2 +1,2 @@
 # pygame
-My pygame program. Simple to use. 
+My pygame project. Simple to use. 
